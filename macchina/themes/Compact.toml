@@ -1,0 +1,13 @@
+spacing = 4
+hide_ascii = true
+separator = ""
+key_color = "#EBCB8B"
+
+[palette]
+type = "Full"
+visible = true
+
+[keys]
+distro = "System"
+de = "Env"
+wm = "Env"
